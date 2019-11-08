@@ -40,6 +40,7 @@ body {
 	font: 500 14px robotomedium, sans-serif;
 	color: #000;
 	text-decoration: none;
+	border: 2px solid transparent;
 }
 
 .nav__item:hover {	
